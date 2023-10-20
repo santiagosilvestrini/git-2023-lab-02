@@ -9,3 +9,5 @@ Agrego linea para probar GIT GUI
 Cambios para probar Github Desktop...
 
 Este es un cambio desde le repo remoto para probar fetch de github desktop
+
+Este es un cambio desde la rama-conflicto para causar un conflicto en el merge
