@@ -9,3 +9,5 @@ Agrego linea para probar GIT GUI
 Cambios para probar Github Desktop...
 
 Este es un cambio desde le repo remoto para probar fetch de github desktop
+
+Esta es un cambio agregago en la rama main luego de haber tomado el snapshot para la creación de la rama rama-conflico
